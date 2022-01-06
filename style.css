@@ -1,0 +1,43 @@
+.btn-section{
+   margin-left: 20px;
+    display: flex;
+}
+
+.btn-a, .btn-b{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 40px;
+}
+
+.hover-h3{
+    color: red
+}
+
+img{
+    display: block;
+    position: relative;
+    height: 65px;
+    width: 80px;
+}
+
+.hover-section {
+    margin-left: 20px;
+    height: 65px;
+    width: 80px;
+}
+
+.submit-btn{
+    margin-top: 10px;
+}
+
+.form-section{
+    margin-left: 20px;
+}
+
+.inp{
+    margin-bottom: 10px;
+}
+
+.form-h1{
+    margin-top: 10px;
+}
