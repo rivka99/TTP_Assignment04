@@ -25,6 +25,7 @@ hoverEl.addEventListener("mouseover",function(){
 })
 
 submitEl.addEventListener("click", function() {
+        formAns=[]
         alerted = false;
         formAns.push(userEl.value)
         formAns.push(emailEl.value)
