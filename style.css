@@ -1,3 +1,10 @@
+body{
+    margin-left: 35px;
+    margin-top: 25px;
+    background-color: #f6e0ff;
+    color: 	#8B008B;
+}
+
 .btn-section{
    margin-left: 20px;
     display: flex;
@@ -16,8 +23,8 @@
 img{
     display: block;
     position: relative;
-    height: 65px;
-    width: 80px;
+    height: 75px;
+    width: 100px;
 }
 
 .hover-section {
