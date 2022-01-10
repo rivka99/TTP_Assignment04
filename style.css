@@ -3,6 +3,8 @@ body{
     margin-top: 25px;
     background-color: #f6e0ff;
     color: 	#8B008B;
+    font-family: 'Special Elite', cursive;
+    font-size: 20px;
 }
 
 .btn-section{
@@ -35,6 +37,7 @@ img{
 
 .submit-btn{
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .form-section{
@@ -47,4 +50,9 @@ img{
 
 .form-h1{
     margin-top: 10px;
+}
+.rad-res{
+    color:midnightblue;
+    margin-top: 25px;
+    margin-bottom: 80px;
 }
